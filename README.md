@@ -1,7 +1,5 @@
 # Sentiment-Readability-Engine
 
-# Sentiment-Readability-Engine
-
 A Python script for extracting, preprocessing, and analyzing text from articles to calculate sentiment and readability metrics. The script processes URLs from an input Excel file, extracts article content, cleans the text, performs sentiment and readability analysis, and saves the results in a CSV file.
 
 ## Table of Contents
